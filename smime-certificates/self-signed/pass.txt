@@ -1,0 +1,13 @@
+ca.key passphrase: deltaca
+
+email: deltaca2021@gmail.com
+pass: appliedcrypto
+
+
+smime-bob.key passphrae: bob.pant
+
+bob.pant-selfsigned.p12 passphrase: bob.pant
+
+example.p12 passphrase: example
+
+
