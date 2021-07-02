@@ -6,5 +6,5 @@ We followed a paper recently published on the same topic. The paper outlined the
 
 Please view *Email_Final_Report.pdf* for our final report on the ISM.
 
-##Implementation Details: 
+## Implementation Details: 
  - For decrypting oracle (second attack), the version of Enigmail was 2.1.6
